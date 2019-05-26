@@ -17,7 +17,7 @@ Chat app using React and Firebase.
 This is a project I completed following a course by Ryan Florence. This was a way of developing skill using Firebase and improving my use of React Hooks. 
 
 ## Screenshots
-![Example screenshot]("./src/images/screenShot2.png")
+![Example screenshot]("./images/screenShot2.png")
 
 ## Technologies
 * React  
